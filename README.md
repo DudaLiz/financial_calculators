@@ -1,5 +1,5 @@
-This program will run user-friendly financial calculators
-used to calclulate earnings on investment or home loan repayments.
+This program runs user-friendly financial calculators
+used to estimate earnings on investment or homeloan repayments.
 
 import math library ✅
 
